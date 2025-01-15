@@ -1,5 +1,13 @@
 # Tasks
 
+## Drawing
+
+using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
+
+## Bending iron
+
+![photo](photos/bending-iron.png)
+
 ##  Body
 
 * [ ] create drawing
