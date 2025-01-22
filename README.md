@@ -11,13 +11,15 @@ using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
 ##  Body
 
 * [ ] create drawing
-* [ ] mold
+* [x] mold
 
-* [ ] thickness plane top to 0.4mm too thick
-* [ ] thickness plane bottom to 0.4mm too thick
+* [x] glue-up top (glue up first because halves don't align perfectly - slightly warped)
+* [x] glue-up bottom (...)
 
-* [ ] glue-up top
-* [ ] glue-up bottom
+
+* [ ] thickness plane top to 0.4mm too thick (final thickness 2-2.3mm)
+* [ ] thickness plane bottom to 0.4mm too thick (final thickness 2-2.3mm)
+
 
 * [ ] thickness plane top and bottom to remove glue seam
 
@@ -32,7 +34,7 @@ using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
 * [ ] reinforce (bracing) bottom
 
 * [ ] create paper template for folding sidewalls with main bend lines (and proper length) using the mold
-* [ ] thickness plane sidewalls to 0.1mm too thick (just enough left for sanding)
+* [ ] thickness plane sidewalls to 0.1mm too thick (just enough left for sanding). final thickness 1.7-2mm
 * [ ] bend sidewalls
 * [ ] clamp sidewalls in mold
 
