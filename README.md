@@ -17,8 +17,8 @@ using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
 * [x] glue-up bottom (...)
 
 
-* [ ] thickness plane top to 0.4mm too thick (final thickness 2-2.3mm)
-* [ ] thickness plane bottom to 0.4mm too thick (final thickness 2-2.3mm)
+* [x] thickness plane top to 0.4mm too thick (final thickness 2-2.3mm)
+* [x] thickness plane bottom to 0.4mm too thick (final thickness 2-2.3mm)
 
 
 * [ ] thickness plane top and bottom to remove glue seam
@@ -34,23 +34,25 @@ using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
 * [ ] reinforce (bracing) bottom
 
 * [ ] create paper template for folding sidewalls with main bend lines (and proper length) using the mold
-* [ ] thickness plane sidewalls to 0.1mm too thick (just enough left for sanding). final thickness 1.7-2mm
+* [x] jointing plane sidewall
+* [x] thickness plane sidewalls to 0.1mm too thick (just enough left for sanding). final thickness 1.7-2mm
+* [ ] cut sidewalls to width (66mm)
 * [ ] bend sidewalls
 * [ ] clamp sidewalls in mold
 
 * [ ] create and fit head block
 * [ ] create and fit tail block
 
-* create kerfing top and bottom
-* glue kerfing top and bottom in place
+* [ ] create kerfing top and bottom
+* [ ] glue kerfing top and bottom in place
 
-* glue top and bottom to sidewalls
-* trim top and back using router
-* sand sidewalls using sanding drum attached to drill
+* [ ] glue top and bottom to sidewalls
+* [ ] trim top and back using router
+* [ ] sand sidewalls using sanding drum attached to drill
 
-* trip to allow for binding and purfling
-* add binding strip
-* add purfling strip
+* [ ] trim to allow for binding and purfling
+* [ ] add binding strip
+* [ ] add purfling strip
 
 ## Fretboard
 
