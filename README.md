@@ -6,6 +6,8 @@ using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
 
 ## Bending iron
 
+see https://www.youtube.com/watch?v=Oxe-JnyoJ4c
+
 ![photo](photos/bending-iron.png)
 
 ##  Body
@@ -30,15 +32,15 @@ using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
 * [ ] cut top to slightly oversize leaving a tab on the top and bottom for clamping
 * [ ] cut bottom to slightly oversize leaving a tab on the top and bottom for clamping
 
-* [ ] reinforce (bracing) top
-* [ ] reinforce (bracing) bottom
+* [ ] reinforce (bracing) top. wood: Sitka spruce
+* [ ] reinforce (bracing) bottom. wood: Sitka spruce
 
-* [ ] create paper template for folding sidewalls with main bend lines (and proper length) using the mold
+* [x] create paper template for folding sidewalls with main bend lines (and proper length) using the mold
 * [x] jointing plane sidewall
 * [x] thickness plane sidewalls to 0.1mm too thick (just enough left for sanding). final thickness 1.7-2mm
-* [ ] cut sidewalls to width (66mm)
-* [ ] bend sidewalls
-* [ ] clamp sidewalls in mold
+* [x] cut sidewalls to width (66mm)
+* [x] bend sidewalls
+* [x] clamp sidewalls in mold
 
 * [ ] create and fit head block
 * [ ] create and fit tail block
@@ -61,6 +63,8 @@ using freecad. PDF A3 scale 1 [here](./ukulele-A3_drawing.pdf)
 # references
 
 * https://www.youtube.com/watch?v=nU_pkSx9Aes
+* [Oaktown ukulele plans](https://www.oaktownstrings.com/free-instrument-plans)
+* [Oaktown ukulele instructions](https://www.oaktownstrings.com/construction)
 
 # shopping list
 
